@@ -1,5 +1,5 @@
 # Bankist-Website
-Created a marketing website for the Bankist Application with modern effects using JavaScript
+Created a marketing website for the Bankist Application with modern effects using JavaScrip!
 <img width="1440" alt="Screenshot 2023-08-31 at 4 46 10 PM" src="https://github.com/mohamk29/Bankist-Website/assets/49575465/c21c085e-a433-45f6-bf09-492a68892675">
 <img width="1439" alt="Screenshot 2023-08-31 at 4 46 17 PM" src="https://github.com/mohamk29/Bankist-Website/assets/49575465/b9110166-079f-4fbb-bb61-f606418a1859">
 <img width="1440" alt="Screenshot 2023-08-31 at 4 46 30 PM" src="https://github.com/mohamk29/Bankist-Website/assets/49575465/ca531fb1-632f-4528-a0d5-eaa43266ace4">
